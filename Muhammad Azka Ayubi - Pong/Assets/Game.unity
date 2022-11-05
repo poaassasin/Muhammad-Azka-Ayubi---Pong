@@ -815,7 +815,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f71339527f1fbf42ba23585de0df3f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: 4, y: 0}
+  speed: {x: 7, y: 0}
   resetPosition: {x: 0, y: 0}
 --- !u!58 &946079526
 CircleCollider2D:
@@ -933,7 +933,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 946079526}
-  isRight: 1
+  isRight: 0
   manager: {fileID: 1047105249}
 --- !u!61 &1373750817
 BoxCollider2D:
